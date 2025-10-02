@@ -1,0 +1,13 @@
+field,non_null,total,completeness_pct
+Sr_No,3478,3478,100.0
+Plant_Health_Status,3478,3478,100.0
+Disease_Type,3478,3478,100.0
+Location.Vineyard,3478,3478,100.0
+Location.GPS.Latitude,3478,3478,100.0
+Location.GPS.Longitude,3478,3478,100.0
+Environmental_Conditions.Time_of_Capture,3478,3478,100.0
+Environmental_Conditions.Lighting,3478,3478,100.0
+Environmental_Conditions.Weather,3478,3478,100.0
+Device_Specifications.Device_Name,3478,3478,100.0
+Device_Specifications.Sensor,3478,3478,100.0
+Device_Specifications.OS,3478,3478,100.0

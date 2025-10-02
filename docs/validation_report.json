@@ -1,0 +1,10 @@
+{
+  "n_images": 3477,
+  "brightness_mean": 121.33247284506224,
+  "brightness_std": 19.442310841038594,
+  "sharpness_mean": 414.72896062830654,
+  "sharpness_std": 261.69972347286256,
+  "blurry_count": 3477,
+  "blurry_pct": 100.0,
+  "kappa_results": {}
+}
